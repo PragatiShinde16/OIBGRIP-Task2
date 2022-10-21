@@ -1,0 +1,51 @@
+body {  
+    background-color: rgb(15, 16, 15);
+    margin: 20%;
+}
+
+#Heading {
+    margin-top: 2px;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(240, 73, 73);
+    color: wheat;
+    font-size: 56px;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+#date{
+    text-align: center;
+}
+
+#Sindhutai {
+    display: inline-block;
+    width: 100%;
+}
+
+#caption {
+    font-size: 25px;
+    font-family :Arial, Helvetica, sans-serif;
+    color:white;
+    text-align: center;
+}
+
+div#tribute-data {
+    background-color:rgb(173, 212, 218);
+    box-shadow: 20px 20px 20px #68c6f1;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 25px 25px;
+    margin: 10px;
+    margin-top: 35px;
+}
+
+h1.title {
+    font-size: 35px;
+    color: rgb(239, 245, 239);
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(20, 20, 25);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#MoreInfo{
+    text-decoration: none;
+    color: white;
+}
